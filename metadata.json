@@ -1,6 +1,0 @@
-{
-  "name": "AyuForm Portal",
-  "description": "A modern, mobile-first government jobs portal with glassmorphism design.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
